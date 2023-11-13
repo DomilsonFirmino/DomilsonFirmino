@@ -9,6 +9,7 @@
 <!-- ADicionar tambem link para uma area com todos os repositorios ordenados por categorias -->
 <!-- categorias de repositorios: frontend mentor, Competitive programing e outras -->
 <!-- adicionar menos colapsaveis, imagem de capa personalizada e imagem de desenvolvedor lateral -->
+<!-- adicionar mais tarde um lnk para os trabalhos de design bem como de web design -->
 <h3 align="left">Codeforces</h3>
 <p align="left">
 
