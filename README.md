@@ -1,12 +1,6 @@
 <h1 align="center">YOOOO!! Domilson Firmino aka ( Sirius Cerstar) Here 👋</h1>
 <h3 align="center">I Usually work with Graphic and Web Designer, Coding ( mostly Frontend ) and Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=domilsonfirmino&label=Profile%20views&color=0e75b6&style=flat" alt="domilsonfirmino" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=domilsonfirmino" alt="domilsonfirmino" /></a>
-</p>
-
 - 🌱 I’m currently learning **Python, improving my React JS and tailwindcss knowlegde**
 - 📫 How to reach me **almeidagilbertofirmino@gmail.com**
 
@@ -101,4 +95,10 @@
 
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domilsonfirmino&" alt="domilsonfirmino" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=domilsonfirmino&label=Profile%20views&color=0e75b6&style=flat" alt="domilsonfirmino" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=domilsonfirmino" alt="domilsonfirmino" /></a>
 </p>
