@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning **Python, improving my React JS and tailwindcss knowlegde**
 - 📫 How to reach me **almeidagilbertofirmino@gmail.com**
 
+<!-- Adicionar linguas faladas, adicionar o frontend mentor como foco atual, dessenvolivmento com react js e programação competitiva com python -->
+
+<!-- ADicionar tambem link para uma area com todos os repositorios ordenados por categorias -->
+<!-- categorias de repositorios: frontend mentor, Competitive programing e outras -->
+<!-- adicionar menos colapsaveis, imagem de capa personalizada e imagem de desenvolvedor lateral -->
 <h3 align="left">Codeforces</h3>
 <p align="left">
 
