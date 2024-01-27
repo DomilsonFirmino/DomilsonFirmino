@@ -1,4 +1,4 @@
-<h1 align="center">YOOOO!! Domilson Firmino aka ( Sirius Cerstar) Here 👋</h1>
+<h1 align="center">YOOOO!! Domilson Firmino Here 👋</h1>
 <h3 align="center">I Usually work with Graphic and Web Designer, Coding ( mostly Frontend ) and Competitive Programmer</h3>
 
 - 🌱 I’m currently learning **Python, improving my React JS and tailwindcss knowlegde**
