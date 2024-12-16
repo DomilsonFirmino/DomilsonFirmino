@@ -44,6 +44,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
 
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1174965.png?f=webp&w=256" alt="typescript" width="40" height="40"/>
+   </a>
+
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
    </a>
@@ -52,6 +56,18 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
    </a>
 
+</p>
+
+<h3 align="left">Backend:</h3>
+
+<p align="left">
+   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+      <img src="https://w7.pngwing.com/pngs/87/831/png-transparent-php-hd-logo.png" alt="php" width="40" height="40"/>
+   </a>
+ 
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/>
+   </a>
 </p>
 
 <h3 align="left">Developer Tools:</h3>
