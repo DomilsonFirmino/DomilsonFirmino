@@ -1,7 +1,6 @@
 <h1 align="center">YOOOO!! Domilson Firmino Here 👋</h1>
-<h3 align="center">I Work with Graphic and Web Designer and Coding ( Fullstack web applications ) and I have participated in the AOCPC ( Angolan competitive programming contest ) </h3>
+<h3 align="center">I AM a Full stack web developer with knowledge in Graphic and Web Designer. I had the opportunity to participate in the AOCPC ( Angolan competitive programming contest ) </h3>
 
-- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **almeidagilbertofirmino@gmail.com**
 
 <!-- Adicionar linguas faladas, adicionar o frontend mentor como foco atual, dessenvolivmento com react js e programação competitiva com python -->
